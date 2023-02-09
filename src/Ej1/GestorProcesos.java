@@ -41,7 +41,7 @@ import java.util.concurrent.TimeUnit;
                 //Caso numCliente<numServidor
                 resultadoComparacion="Has fallado, el numero del servidor es mayor";
             } else{
-                //Caso numCliente>numServidor
+                //Caso numCliente>numServidor2
                 resultadoComparacion="Has fallado, el numero del servidor es menor";
             }
 
